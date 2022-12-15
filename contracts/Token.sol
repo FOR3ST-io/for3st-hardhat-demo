@@ -3,7 +3,7 @@
 pragma solidity ^0.8.17;
 
 contract Token {
-  string public name = "My Hardhat Token For3st Demo";
+  string public name = "My Hardhat For3st Demo";
   string public symbol = "MHT";
 
   uint256 public testIt;
